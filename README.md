@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kavindualwis02@proton.me**
 
-- ⚡ Fun fact **I am Extremely Happy Guy**
+- ⚡ Fun fact **I am an Extremely Happy Guy**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindualwis&label=Profile%20views&color=0e75b6&style=flat" alt="kavindualwis" /> </p>
 
