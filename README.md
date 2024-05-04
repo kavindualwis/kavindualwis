@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Dart and Flutter**
 
-- 📫 How to reach me **kavindualwis02@proton.me**
-
 - ⚡ Fun fact **I am Extremely Happy Guy!**
 
 <h3 align="left">Connect with me:</h3>
