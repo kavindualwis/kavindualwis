@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Swift, React Native & Kotlin**
-
 - 💬 Ask me about **Dart and Flutter**
 
 - ⚡ Fun fact **I am Extremely Happy Guy!**
