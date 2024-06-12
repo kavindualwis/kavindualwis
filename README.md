@@ -17,6 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindualwis&label=Profile%20views&color=0e75b6&style=flat" alt="kavindualwis" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindualwis&label=Profile%20views&color=0e75b6&style=flat" alt="kavindualwis" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindualwis&show_icons=true&locale=en" alt="kavindualwis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindualwis&" alt="kavindualwis" /></p>
