@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kavindu Alwis 👋</h1>
-<h3 align="center">A Professional Full Stack Mobile App Developer from Sri Lanka!</h3>
+<h3 align="center">A Professional Full Stack Mobile App Developer</h3>
 
  **I specialize in Flutter and Dart programming, bringing innovative mobile applications to life. I am leveraging my skills as a part-time freelancer, delivering high-quality projects and consistently exceeding client expectations. My journey in tech is driven by curiosity and a commitment to excellence, making me a versatile and resourceful professional in the ever-evolving world of software development.**
 
