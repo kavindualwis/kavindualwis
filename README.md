@@ -92,10 +92,10 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindualwis&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindualwis&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindualwis&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindualwis&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="150" />
 </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavindualwis&label=Profile%20views&color=9c27b0&style=social" alt="kavindualwis" /> </p>
 <p align="center">
-  🌟 *Thank you for visiting! Let’s connect and create amazing tech together.* 🚀
+  🌟 Thank you for visiting! Let’s connect and create amazing tech together. 🚀
 </p>
