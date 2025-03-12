@@ -8,7 +8,7 @@
 ---
 
 ## ✨ About Me
-- 🔧 **Professional Skills**: Specializing in **Flutter**, **Dart**, **Python** and **Java** with experience in **Firebase**, **Node.js**, **Spring**, and **MongoDB**.
+- 🔧 **Professional Skills**: Specializing in  **Flutter**, **Dart**, **Python** and **Java** with experience in **Firebase**, **Node.js**, **Spring**, and **MongoDB**.
 - 🌐 **Freelancer**: Delivering high-quality, client-focused projects with a commitment to excellence.
 - 💡 **Driven by Curiosity**: Constantly learning and adapting to new challenges in the ever-evolving tech world.
 - 🎓 **Learning Journey**: Aspiring to master **AI**, **ML**, and **Backend Development** for innovative solutions.
