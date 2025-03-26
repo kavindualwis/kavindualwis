@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Mobile Application Developer | Flutter Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E56F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Cloud+Architecture;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6E56F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Flutter+Developer;Mobile+App+Specialist;UI/UX+Enthusiast;Cloud+Architecture;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
