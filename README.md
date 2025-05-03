@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kavindu Alwis</h1>
+<h1 align="center">👋 Hi,  I'm Kavindu Alwis</h1>
 <h3 align="center">🚀 Full Stack Mobile Application Developer | Flutter Specialist</h3>
 
 <p align="center">
