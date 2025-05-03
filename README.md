@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌟 Passionate about crafting sleek, high-performance mobile apps that blend innovation with meticulous attention to detail. From concept to deployment, I bring ideas to life with elegant solutions.
+  🌟 Passionate  about crafting sleek, high-performance mobile apps that blend innovation with meticulous attention to detail. From concept to deployment, I bring ideas to life with elegant solutions.
 </p>
 
 ---
