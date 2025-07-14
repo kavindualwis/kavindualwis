@@ -146,10 +146,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindualwis&theme=tokyonight" width="430"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kavindualwis&layout=compact&langs_count=8&theme=tokyonight" width="430"/>
-</p>
-
 ---
 
 <p align="center">
