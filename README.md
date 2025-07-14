@@ -142,8 +142,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavindualwis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="430"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindualwis&theme=tokyonight" width="430"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavindualwis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kavindualwis&theme=tokyonight" width="400"/>
 </p>
 
 ---
